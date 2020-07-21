@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, seja bem vindo!</h1>
+<p align="center">
+<a href=https://twitter.com/americoneto1 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="americoneto1" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/americoneto target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="americoneto" height="20" width="20" /></a>
+</p>
 
-<!--
-**americoneto1/americoneto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=americoneto1 alt=americoneto1/> </p>
 
-Here are some ideas to get you started:
+- 🔭 Trabalho com desenvolvimento web desde 2007, quando transformava PSD em HTML/CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Faço parte da organização da comunidade AngularSP
+
+- 💬 Se preferir, pode entrar em contato por e-mail **americoneto1@gmail.com**
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=americoneto1&show_icons=true alt=americoneto1 /> </p>
