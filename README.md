@@ -12,4 +12,11 @@
 
 - 💬 Se preferir, pode entrar em contato por e-mail **americoneto1@gmail.com**
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=americoneto1&show_icons=true alt=americoneto1 /> </p>
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=americoneto1&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=americoneto1&theme=default" /></td>
+  </tr>   
+</table>
+</center>
