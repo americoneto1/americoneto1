@@ -8,8 +8,6 @@
 
 - 🔭 Trabalho com desenvolvimento web desde 2007, quando transformava PSD em HTML/CSS/JS
 
-- 📫 Faço parte da organização da comunidade AngularSP
-
 - 💬 Se preferir, pode entrar em contato por e-mail **americoneto1@gmail.com**
 
 <center>
